@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 # Hi there, I'm Mithilesh Yadav 👋
-### Enterprise DevOps & SRE Engineer | Cloud Architect | Agentic AI & LLMOps Systems
+### Enterprise DevOps & SRE Engineer | Agentic AI & LLMOps Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-mit9685%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mit9685@gmail.com)
